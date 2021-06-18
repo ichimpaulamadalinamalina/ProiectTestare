@@ -1,0 +1,16 @@
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\UnitTestProject1.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\UnitTestProject1.pdb
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\WebDriver.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\WebDriver.Support.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\WebDriver.xml
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\bin\Debug\WebDriver.Support.xml
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\obj\Debug\ACAutomationSolution.csprojAssemblyReference.cache
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\obj\Debug\ACAutomationSolution.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\obj\Debug\ACAutomationSolution.csproj.CopyComplete
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\obj\Debug\UnitTestProject1.dll
+C:\Users\malin\Desktop\Proiect_testare_final\TestareSoftwareProject\UnitTestProject_v2\obj\Debug\UnitTestProject1.pdb
